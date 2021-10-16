@@ -10,5 +10,5 @@ spec:
   project: default
   source:
     path: manifest/sampleapp/overlays/dev
-    repoURL: https://github.com/amaya382/gitops-manifest
+    repoURL: https://github.com/try-sunao-biz/manifest
     targetRevision: dev

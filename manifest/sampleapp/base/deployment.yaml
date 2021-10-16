@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sampleapp
-        image: amaya382/gitops-sampleapp:latest
+        image: tryxsunaoxbiz/gitops-sampleapp:latest
         ports:
           - containerPort: 80
