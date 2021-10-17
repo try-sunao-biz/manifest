@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sampleapp
-        image: tryxsunaoxbiz/sampleapp:27d43d3bfa4ab3003cb4ef4af6dbb21637952394
+        image: tryxsunaoxbiz/sampleapp:e0290438c05a5099c9bb1dcb5542f6efad2bad82
         ports:
           - containerPort: 80
